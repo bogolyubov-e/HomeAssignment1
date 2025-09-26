@@ -1,4 +1,4 @@
-# Assignmenty 1
+# Assignment 1
 ## Author
 Егор Боголюбов 25.Б81-мм
 ## Contacts
