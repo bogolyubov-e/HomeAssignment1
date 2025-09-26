@@ -7,7 +7,7 @@ int main(){
 	while (1){
 		std::string s;
 		std::cin >> s;
-		std::cout << myproject::sayHello(s);
+		myproject::sayHello(s);
 	}
 	return 0;
 }
